@@ -2,8 +2,8 @@ Bearer_Token = "TwitterApp_Token";//作成したAppToken
 
 //認証用インスタンスの生成
 var twitter = TwitterWebService.getInstance(
-  'SFsmvJFDaCcM06d6zhEG3XjUq',//API Key
-  '3atO7gFFBDu7AzjDvLYNsisEgw7NGoiGm2ZP1w6p7TxSd4CrqX'//API secret key
+  'xxxxxxxxxxx',//API Key
+  'yyyyyyyyyyy'//API secret key
 );
  
 //アプリを連携認証する
